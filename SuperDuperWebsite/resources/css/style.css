@@ -214,6 +214,18 @@ a:hover, a:active {
     border-bottom: 2px solid #e67e22;
 }
 
+/* mobile navi */
+.mobile-nav-icon{
+    float: right;
+    margin-top: 30px;
+    cursor: pointer;
+    display: none;
+}
+.mobile-nav-icon i{
+    font-size: 200%;
+    color: white;
+}
+
 /* sticky nav */
 .sticky {
     position: fixed;
